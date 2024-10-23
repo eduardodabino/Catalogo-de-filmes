@@ -1,0 +1,10 @@
+body{
+    background-color: royalblue;
+    color: yellow
+
+}
+header {
+    text-align: center;
+    font-size: 60px;
+    color: yellow;
+    border-bottom: solid 5px lavender;}
