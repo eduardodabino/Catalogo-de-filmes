@@ -7,4 +7,13 @@ header {
     text-align: center;
     font-size: 60px;
     color: yellow;
-    border-bottom: solid 5px lavender;}
+    border-bottom: solid 5px lavender;
+}
+
+section {
+    display: flex;
+}
+
+.texto{
+ margin-right: 5%;
+}
